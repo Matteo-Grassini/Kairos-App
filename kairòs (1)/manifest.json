@@ -1,0 +1,41 @@
+
+{
+  "short_name": "Kairòs",
+  "name": "Kairòs Agenda AI",
+  "id": "/index.html",
+  "description": "L'agenda intelligente che organizza la tua vita con l'AI",
+  "categories": ["productivity", "lifestyle", "finance", "health"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f8fafc",
+  "orientation": "portrait-primary",
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&q=80",
+      "sizes": "800x600",
+      "type": "image/jpg",
+      "form_factor": "wide",
+      "label": "Desktop Dashboard"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1616469829581-73993eb86b02?w=400&q=80",
+      "sizes": "400x800",
+      "type": "image/jpg",
+      "form_factor": "narrow",
+      "label": "Mobile Schedule"
+    }
+  ]
+}

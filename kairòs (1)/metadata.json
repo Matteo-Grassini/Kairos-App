@@ -1,0 +1,7 @@
+{
+  "name": "Kairòs",
+  "description": "Un'agenda intelligente che organizza automaticamente i tuoi compiti giornalieri utilizzando l'AI per ottimizzare il tuo tempo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
